@@ -253,3 +253,9 @@ Developed as part of the **SDA Data Engineering Bootcamp**.
 * Amal Al Dawsari — [@amal426](https://github.com/amal426)
 * Ewan Hamoh — [@iiewan](https://github.com/iiewan)
 * Renad Alghamdi — [@renad-ghazi](https://github.com/renad-ghazi)
+
+<div align="center">
+
+If you find this project useful, please consider giving it a star.
+
+</div>
